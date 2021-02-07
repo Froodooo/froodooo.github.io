@@ -1,0 +1,20 @@
+---
+layout: post
+title: Glijdend de stage in
+date: 2021-02-07 14:42 +0100
+image: /uploads/EWlkcPO.gif
+tags:
+- Aan de Slag voor de Klas
+---
+
+De deuren van de tram openen zich en in mijn ooghoeken zie ik een man uitstappen. Een seconde later klinkt een doffe klap en hoor ik een kreet die nog het meest wegheeft van Gandalf die in het huis van Bilbo z'n hoofd stoot tegen een dwarsbalk.
+
+![Gandalf hitting his head](/uploads/EWlkcPO.gif)
+
+Hij was niet de eerste die was vergeten dat de Amsterdamse tramperrons in ijsbanen waren veranderd. Ik stapte een aantal haltes later als een moeilijk lopende bejaarde uit en kon me nog net aan het bord met vertrektijden vasthouden om te voorkomen dat ik er zelf net zo bij zou liggen. Daar waar het perron naar beneden afliep hoefde ik alleen maar te blijven staan om vanzelf naar beneden te glijden. "Een interessante eerste stagedag", dacht ik bij mezelf. Ik gleed semi-automatisch en zonder al te veel zelf te doen de school binnen. Een mens kan slechter beginnen.
+
+Ik keek vooral mee met de digitale lessen van de leraar en regelde wat administratieve zaken zoals toegang tot de WiFi, m'n schoolaccount en online onderwijsomgevingen. Leerlingen zijn er fysiek niet bij, op een paar na die om uiteenlopende redenen wel op school zijn. Een ander beeld dan een paar maanden geleden, toen ik tijdens [mijn meeloopdag](https://yordi.me/het-doek-gaat-open) in  levendige en barstensvolle klassen terechtkwam. Het kan verkeren.
+
+Na de lessen leidde de leraar me rond langs lokalen die ik tijdens de meeloopdag gemist had. Ook daar alles uitgestorven. De ronde eindigde bij het technieklokaal, waarvan de deur als enige van de school nog een beslag miste. Typisch. Na zo'n eerste dag kun je nog weinig zeggen over het verloop van de rest van de stage. Toch verraad de klik tussen de leraar en mij dat dit een mooie periode kan worden. Ik heb er wel vertrouwen in.
+
+Op de terugweg naar de inmiddels weer begaanbare tramhalte liep ik mee met een andere ervaren leraar. Ik was benieuwd of zij het spannend vond dat dit jaar de eerste lichting havo-scholieren examen ging doen sinds de oprichting van de school, nu vijf jaar geleden. Ze had er wel vertrouwen in.

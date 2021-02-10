@@ -4,7 +4,8 @@ title: Fishing in a Sea of Knowledge
 date: 2021-02-10 20:06 +0100
 image: /uploads/natsuki-xruizGleBVE-unsplash.jpg
 tags:
-  - Teach, Learn
+  - Teach
+  - Learn
 ---
 
 > Use your personal information hooks to fish in a wild sea of knowledge

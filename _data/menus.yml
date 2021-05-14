@@ -6,6 +6,10 @@
   url: /now/
   external: false
 
+- title: work
+  url: https://www.polywork.com/froodooo
+  external: true
+
 - title: garden
   url: /garden/
   external: false

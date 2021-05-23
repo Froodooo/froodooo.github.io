@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You've Got to Find an Easier Path
-date: 2021-05-23 14:09 +0200
+date: 2021-05-23 14:10 +0200
 image: /uploads/fyre-willow-icxFuBbwJX0-unsplash.jpg
 tags:
   - Thought

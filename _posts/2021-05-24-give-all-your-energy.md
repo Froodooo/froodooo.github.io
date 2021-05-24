@@ -65,4 +65,4 @@ None.
 
 There you have it. If you take anything from this story, let it be the following. **Give everything you have, your full energy, your 100 percent, to everything you do.** If you don’t, you can tell that you didn’t by the response you get from your environment. When you don’t give something all the energy you have, you might as well not do it. The results will only disappoint you.
 
-*[This article originally appeared on Medium](https://medium.com/@yordiverkroost/giving-all-your-energy-everywhere-and-always-is-the-key-to-everyday-success-14bc04c4df65)*.
+*<a href="https://medium.com/@yordiverkroost/giving-all-your-energy-everywhere-and-always-is-the-key-to-everyday-success-14bc04c4df65" target="_blank">This article originally appeared on Medium</a>*.

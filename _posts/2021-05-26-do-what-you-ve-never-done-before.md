@@ -56,3 +56,5 @@ When I started as what is called a mentor, I was a bit nervous. I mean, I do kno
 I'm amazed by how fast the "ninjas" pick up new stuff and can be completely immersed in what they're doing. It gives me so much energy that I'm sad that I didn't start being a mentor earlier.
 
 **That's what stepping out of the comfort zone does for you. It might be scary at first, but the advantages are overwhelming and worth every bit of uncertainty and tension you might've had at the start.**
+
+*<a href="https://medium.com/@yordiverkroost/do-what-youve-never-done-before-505b5dfd592" target="_blank">This article originally appeared on Medium</a>*.

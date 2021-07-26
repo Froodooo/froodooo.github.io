@@ -19,9 +19,7 @@ A few pointers on how to avoid these foundational problems:
 
 1. **Create and use a list of foundational elements for your application.**
 Tick items off this list once you've implemented them and keep checking them when building new features.
-
 2. **Respect the basics.**
 Be humble. Even if you're a senior developer (maybe especially then), know that good code starts with the basics.
-
 3. **Keep learning.**
 Foundations change, so make sure you change as well. Keep learning about new foundational problems and how to avoid them.

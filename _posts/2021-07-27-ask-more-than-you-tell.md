@@ -8,7 +8,7 @@ tags:
   - Manager
 ---
 
-The best managers ask more than they tell.
+The best coaches and managers ask more than they tell.
 
 The start of my new role as a development coach was a dive into unknown territory. I went from building things to coaching others to build things to the best of their abilities.
 

@@ -29,3 +29,5 @@ It all comes down to this quote:
 They know what questions to ask, letting other people find the answers themselves. A good coach has another pair of eyes and ears that look and listen to a situation and ask questions. They can judge a situation from a helicopter's view. They know how to trigger people to approach situations in another, better way.
 
 A development coach turns out to be more of a questioner than a provider of answers. A person who asks more than he tells.
+
+Read more about <a href="https://review.firstround.com/the-25-micro-habits-of-high-impact-managers" target="_blank">the 25 micro-habits of high-impact managers</a>.

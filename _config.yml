@@ -1,7 +1,7 @@
 # Site settings
 title: Yordi Verkroost # site title
 description: >- # site description
-  Living the Digital World
+  Passing on experiences and knowledge to others
 lang: en-US # default lang
 timezone: Europe/Amsterdam # set your timezone
 image: assets/img/avatar.png # This image used for Open Graph more info https://ogp.me/
@@ -12,7 +12,7 @@ mode: light # default theme "dark" | "light"
 author:
   name: Yordi Verkroost # author name
   bio: >- # tell to the world
-    Living the Digital World
+    Passing on experiences and knowledge to others
   username: froodooo # general username
   github: froodooo # github username
   twitter: yordiverkroost # twitter username

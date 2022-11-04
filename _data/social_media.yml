@@ -21,9 +21,3 @@ github:
   href: 'https://github.com/'
   title: 'GitHub'
   fa-icon: 'fa-brands fa-github'
-
-email:
-  id: 'info@yordiverkroost.com'
-  href: 'mailto:'
-  title: 'Email'
-  fa-icon: 'fa-solid fa-envelope'

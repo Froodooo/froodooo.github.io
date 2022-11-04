@@ -2,22 +2,28 @@ linkedin:
   id: 'yordiverkroost'
   href: 'https://www.linkedin.com/in/'
   title: 'LinkedIn'
-  fa-icon: 'fa-linkedin-square'
+  fa-icon: 'fa-brands fa-linkedin'
 
 twitter:
   id: 'yordiverkroost'
   href: 'https://www.twitter.com/'
   title: 'Twitter'
-  fa-icon: 'fa-twitter-square'
+  fa-icon: 'fa-brands fa-twitter'
+
+mastodon:
+  id: '@yordi'
+  href: "https://mastodon.social/"
+  title: 'Mastodon'
+  fa-icon: 'fa-brands fa-mastodon'
 
 github:
   id: 'froodooo'
   href: 'https://github.com/'
   title: 'GitHub'
-  fa-icon: 'fa-github-square'
+  fa-icon: 'fa-brands fa-github'
 
 email:
   id: 'info@yordiverkroost.com'
   href: 'mailto:'
   title: 'Email'
-  fa-icon: 'fa-envelope-square'
+  fa-icon: 'fa-solid fa-envelope'

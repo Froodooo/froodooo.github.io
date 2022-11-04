@@ -18,9 +18,9 @@
   url: /garden/
   external: false
 
-- title: ask
-  url: /ask/
-  external: false
+# - title: ask
+#   url: /ask/
+#   external: false
 
 # Example:
 # - title: github

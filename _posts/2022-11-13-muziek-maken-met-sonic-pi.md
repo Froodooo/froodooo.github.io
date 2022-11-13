@@ -2,7 +2,7 @@
 layout: post
 title: Muziek maken met Sonic Pi
 date: 2022-11-13 15:21 +0100
-image: /uploads/sonic-pi-connectivity.svg
+image: /uploads/sonic-pi-connectivity.png
 tags:
   - Software
   - Development
@@ -15,7 +15,7 @@ Als je voor het eerst leert programmeren, kan dat best lastig zijn. Zeker als je
 
 Gelukkig zijn er manieren om programmeren te leren in de context van iets anders. Bijvoorbeeld door digitale kunst te maken met Python Turtle of Processing. Of door iets anders dat ik recent heb ontdekt en enthousiast over ben: door met code muziek te maken!
 
-![Sonic Pi](/uploads/sonic-pi-connectivity.svg)
+![Sonic Pi](/uploads/sonic-pi-connectivity.png)
 
 Eén van de hiervoor beschikbare gereedschappen is [Sonic Pi](https://sonic-pi.net/) (ontworpen door [Sam Aaron](https://www.linkedin.com/in/samaaron)). Variabelen kun je dan opeens gebruiken om muzieknoten in op te slaan. Lijsten komen tot leven met behulp van toonladders. En in een dictionary sla je toch gewoon akkoorden op? Zonder dat je het door hebt kun je met wat simpele beats al een hele hoop programmeerconcepten langs laten komen.
 

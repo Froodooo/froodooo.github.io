@@ -7,6 +7,7 @@ tags:
   - Software
   - Development
   - Music
+  - Teach
 ---
 
 Muziek maken en tegelijkertijd leren programmeren! Ben je op zoek naar een leuke context om leerlingen te leren programmeren, lees dan verder ([en gebruik deze korte les](https://docs.google.com/document/d/1CfW7Es0bmhpOZbDcbfZlSFFzfNdkEiN4/edit?usp=sharing&ouid=111672164020883678415&rtpof=true&sd=true))!

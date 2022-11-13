@@ -9,7 +9,7 @@ tags:
   - Music
 ---
 
-Muziek maken en tegelijkertijd leren programmeren! Ben je op zoek naar een leuke context om leerlingen te leren programmeren, lees dan verder (en gebruik de korte les uit de bijlage van dit bericht)!
+Muziek maken en tegelijkertijd leren programmeren! Ben je op zoek naar een leuke context om leerlingen te leren programmeren, lees dan verder ([en gebruik deze korte les](https://docs.google.com/document/d/1CfW7Es0bmhpOZbDcbfZlSFFzfNdkEiN4/edit?usp=sharing&ouid=111672164020883678415&rtpof=true&sd=true))!
 
 Als je voor het eerst leert programmeren, kan dat best lastig zijn. Zeker als je al die nieuwe concepten op een abstracte manier benaderd. Je kunt iemand namelijk uitleggen dat je data kunt opslaan in variabelen, of in lijsten, of in dictionaries. Om die concepten vervolgens te gaan gebruiken in combinatie met functies, classes en interfaces. Leuk hè? Of ben je al afgehaakt.
 

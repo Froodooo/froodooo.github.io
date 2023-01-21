@@ -2,6 +2,10 @@
 layout: post
 title: Het Computer Science Murder mysterie
 date: 2023-01-21 16:20 +0100
+image: /uploads/csmurdermystery.jpg
+tags:
+  - Teach
+  - Learn
 ---
 
 Vlak voor de kerstvakantie 22/23 heb ik met mijn leerlingen van 3V het [Computer Science Murder Mystery](https://www.tes.com/teaching-resource/computer-science-murder-mystery-activity-12092661) ([Nederlandse versie](https://drive.google.com/drive/folders/1VftaDFtOc3HfphvLh0jZan-8u9REgatb)) gespeeld.

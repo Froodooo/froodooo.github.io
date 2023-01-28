@@ -22,17 +22,15 @@ comments: false
 
 <p>You can install the converter using <code>pip</code>:</p>
 
-<p><code>bash
-sudo pip install git+https://github.com/kmaasrud/obsidian-html.git
-</code></p>
+<pre><code>sudo pip install git+https://github.com/kmaasrud/obsidian-html.git
+</code></pre>
 
 <p>or you can clone the repository to your local computer and install it:</p>
 
-<p><code>bash
-git clone https://github.com/kmaasrud/obsidian-html.git
+<pre><code>git clone https://github.com/kmaasrud/obsidian-html.git
 cd obsidian-html
 pip install .
-</code></p>
+</code></pre>
 
 <p>I chose the latter option since I made a small edit of the script to let it fit my needs (more on that later).</p>
 
@@ -40,21 +38,19 @@ pip install .
 
 <p>Once installed, run the converter using the command <code>obsidian-html</code>, combined with some arguments. I use the following one-liner to convert my Obsidian Vault into my website:</p>
 
-<p><code>bash
-obsidian-html &lt;path to my Obsidian Vault&gt; -t template.hml -d "writings" "notes" -o &lt;path to my website&gt;/garden
-</code></p>
+<pre><code>obsidian-html &lt;path to my Obsidian Vault&gt; -t template.hml -d "writings" "notes" -o &lt;path to my website&gt;/garden
+</code></pre>
 
 <p>The first part of the command points to the location of the Obsidian Vault on my computer. The argument  <code>-t</code> defines a template and puts the resulting HTML files into your own format. My template looks as follows:</p>
 
-<h2 id="-1">```</h2>
+<pre><code>---
+title: {title}
+layout: page
+comments: false
+---
 
-<p>title: {title}<br />
-layout: page</p>
-
-<h2 id="comments-false">comments: false</h2>
-
-<p>{content}<br />
-```</p>
+{content}
+</code></pre>
 
 <p>The top part (between dashes) is <a href="https://jekyllrb.com/docs/front-matter/">Jekyll Front Matter</a>: meta-data that describes a page. The template uses <code>{title}</code> and <code>{content}</code> to put the note's title and content in the HTML file.</p>
 
@@ -66,10 +62,9 @@ layout: page</p>
 
 <p>To solve this challenge, I made a small update to the converter tool. The file <code>utils.py</code> (<a href="https://github.com/kmaasrud/obsidian-html/blob/master/obsidian_html/utils.py">find it here</a>) performs the link generation, in the function <code>md_link()</code> . I updated this function to always include my <code>/garden</code> directory as a prefix:</p>
 
-<p><code>python
-def md_link(text, link):
+<pre><code>def md_link(text, link):
     return "[" + text + "](/garden/" + link + ")"
-</code></p>
+</code></pre>
 
 <hr />
 

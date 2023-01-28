@@ -6,9 +6,6 @@ layout: compress
 <html lang="{{ page.lang | default: site.lang | default: " en " }}">
 
 {% include header.html %}
-{% if jekyll.environment == 'production' and site.google_analytics %}
-  {% include analytics.html %}
-{% endif %}
 
 <body data-theme="{{ site.mode }}" class="notransition">
 

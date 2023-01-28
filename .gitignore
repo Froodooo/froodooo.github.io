@@ -6,3 +6,5 @@ vendor
 
 # Custom
 .tool-versions
+
+node_modules

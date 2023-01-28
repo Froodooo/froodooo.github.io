@@ -10,12 +10,6 @@ twitter:
   title: 'Twitter'
   fa-icon: 'fa-brands fa-twitter'
 
-mastodon:
-  id: '@yordi'
-  href: "https://mastodon.social/"
-  title: 'Mastodon'
-  fa-icon: 'fa-brands fa-mastodon'
-
 github:
   id: 'froodooo'
   href: 'https://github.com/'

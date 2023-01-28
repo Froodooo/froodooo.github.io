@@ -1,7 +1,7 @@
 # Site settings
 title: Yordi Verkroost # site title
 description: >- # site description
-  Ik doe wat ik leuk vind en waar ik energie van krijg. Ik daag mezelf uit. Ik help mezelf en anderen groeien. Altijd met respect naar iedereen en altijd onafhankelijk.
+  I do what I like and what gives me energy. I challenge myself. I help myself and others grow. Always with respect towards everyone and always independent.
 lang: en-US # default lang
 timezone: Europe/Amsterdam # set your timezone
 image: assets/img/avatar_b.png # This image used for Open Graph more info https://ogp.me/
@@ -12,7 +12,7 @@ mode: light # default theme "dark" | "light"
 author:
   name: Yordi Verkroost # author name
   bio: >- # tell to the world
-    Ik doe wat ik leuk vind en waar ik energie van krijg. Ik daag mezelf uit. Ik help mezelf en anderen groeien. Altijd met respect naar iedereen en altijd onafhankelijk.
+    I do what I like and what gives me energy. I challenge myself. I help myself and others grow. Always with respect towards everyone and always independent.
   username: froodooo # general username
   github: froodooo # github username
   twitter: yordiverkroost # twitter username

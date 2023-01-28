@@ -23,7 +23,7 @@ author:
 url: "https://yordi.me" #
 baseurl: ""
 permalink: /:title/
-google_analytics: "UA-112081393-1"
+google_analytics: "G-337ZXJGN05"
 fb_appid:
 
 # Collection setting
@@ -92,3 +92,4 @@ plugins:
   - jekyll-postfiles
   - jekyll-admin
   - jekyll-seo-tag
+  - jekyll-admin

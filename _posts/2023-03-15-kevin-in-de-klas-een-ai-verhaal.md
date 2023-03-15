@@ -2,6 +2,9 @@
 layout: post
 title: Kevin in de klas (een AI-verhaal)
 date: 2023-03-15 17:51 +0100
+image: /uploads/classroom1.png
+tags:
+  - Teach
 ---
 
 Het was een gewone maandagochtend. Ik zat achter mijn bureau in het lokaal waar ik Nederlands gaf aan de vierde klas. Ik had net de opdracht uitgelegd voor de komende les: schrijf een betoog over een actueel onderwerp naar keuze. Ik verwachtte geen grote problemen. De meeste leerlingen zouden toch iets overschrijven van internet of een mening ventileren die ze hadden gehoord van hun ouders of vrienden.

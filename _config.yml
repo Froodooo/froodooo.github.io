@@ -3,7 +3,7 @@ title: Yordi Verkroost # site title
 description: >- # site description
   Ik doe wat ik leuk vind en wat me energie geeft. Ik daag mezelf uit. Ik help mezelf en anderen te groeien. Altijd met respect voor iedereen en altijd onafhankelijk.
 lang: en-US # default lang
-date_locale: nl
+default_locale: nl
 timezone: Europe/Amsterdam # set your timezone
 image: assets/img/avatar_b.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/Froodooo/froodooo.github.io # site repo [optional]

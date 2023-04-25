@@ -100,7 +100,7 @@ DEPENDENCIES
   jekyll (~> 4.1.0)
   jekyll-admin (~> 0.11)
   jekyll-compose (~> 0.12.0)
-  jekyll-date-localization
+  jekyll-date-localization (~> 0.0.5)
   jekyll-feed (~> 0.13)
   jekyll-postfiles (~> 3.1)
   jekyll-seo-tag (~> 2.6)

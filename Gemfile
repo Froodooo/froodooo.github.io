@@ -24,7 +24,7 @@ group :jekyll_plugins do
   gem 'jekyll-postfiles', '~> 3.1'
   gem 'jekyll-seo-tag', '~> 2.6'
   gem 'jekyll-admin', '~> 0.11'
-  gem 'jekyll-date-localization', group: :jekyll_plugins
+  gem 'jekyll-date-localization', '~> 0.0.5'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

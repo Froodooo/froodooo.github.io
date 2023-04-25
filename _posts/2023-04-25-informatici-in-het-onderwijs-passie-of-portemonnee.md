@@ -2,7 +2,7 @@
 layout: post
 title: 'Informatici in het onderwijs: passie of portemonnee?'
 date: 2023-04-25 15:29 +0200
-image: /uploads/OIG.7h5i_0nYtm4Sc.jpeg
+image: /uploads/OIG.jpeg
 tags:
   - Teach
   - Computer Science

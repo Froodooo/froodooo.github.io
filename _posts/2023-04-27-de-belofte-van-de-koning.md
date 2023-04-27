@@ -2,6 +2,7 @@
 layout: post
 title: De belofte van de koning
 date: 2023-04-27 10:19 +0200
+image: /uploads/king1.jpeg
 tags:
   - Education
 ---

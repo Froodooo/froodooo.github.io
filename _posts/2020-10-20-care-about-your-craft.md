@@ -18,7 +18,3 @@ If you don't believe me, believe Steve:
 > *[Steve Job's Commencement address](https://youtu.be/UF8uR6Z6KLc), Stanford, 2005*
 
 Building software well serves multiple purposes. At first, it stands the test of time, because it is expandable. Second, it is easy to read, both for others and your future self. And third, it's just awesome to do. What gives more adrenaline than software that was built in a clever yet simple way? Nothing much, really.
-
----
-
-This post is part of a series about the [Pragmatic Programmer]({% link garden/pragmatic-programmer.html %}).

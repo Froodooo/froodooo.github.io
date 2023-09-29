@@ -25,7 +25,7 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag', '~> 2.6'
   gem 'jekyll-admin', '~> 0.11'
   gem 'tzinfo', '~> 2.0', '~> 2.0.4'
-  gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+  gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

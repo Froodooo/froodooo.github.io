@@ -6,10 +6,6 @@
   url: /blog/
   external: false
 
-- title: missie
-  url: /mission/
-  external: false
-
 - title: nu
   url: /now/
   external: false

@@ -5,7 +5,7 @@ description: >- # site description
 lang: en-US # default lang
 default_locale: nl
 timezone: Europe/Amsterdam # set your timezone
-image: assets/img/avatar_b.png # This image used for Open Graph more info https://ogp.me/
+image: assets/img/avatar_c.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/Froodooo/froodooo.github.io # site repo [optional]
 mode: light # default theme "dark" | "light"
 
@@ -18,7 +18,7 @@ author:
   github: froodooo # github username
   twitter: yordiverkroost # twitter username
   email: info@yordiverkroost.com # email adress
-  avatar: /assets/img/avatar_b.png # change with your own avatar
+  avatar: /assets/img/avatar_c.png # change with your own avatar
 
 # URL settings
 url: "https://yordi.me" #

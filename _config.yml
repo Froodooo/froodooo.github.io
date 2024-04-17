@@ -63,6 +63,9 @@ jekyll_compose:
 # Homepage limit posts
 number_of_posts: 5
 
+# Homepage recent posts word limit
+recent_posts_word_limit: 120
+
 # Build settings
 # theme: klise
 sass:

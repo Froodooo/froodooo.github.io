@@ -5,12 +5,19 @@ home: true
 
 {% include about.html %}
 
-<h2 class="posts-item-note" aria-label="Recent Posts">Recente artikelen</h2>
+<h2 class="posts-item-note" aria-label="Recent Posts">Recente posts</h2>
 {%- for post in site.posts limit: site.number_of_posts -%}
 <article class="post-item">
   <span class="post-item-date">{{ post.date | date: "%d-%m-%Y" }}</span>
   <h4 class="post-item-title">
-    <a href="{{ post.url }}">{{ post.title | escape }}</a>
+    <a href="{{ post.url }}"><strong>{{ post.title | escape }}</strong></a>
   </h4>
+</article>
+<article>
+  {{ post.content | truncatewords: site.recent_posts_word_limit }}
+  {% assign words = post.content | number_of_words %}
+  {% if words > site.recent_posts_word_limit %}
+    <em>(<a href="{{ post.url }}" class="read-more">lees meer</a>)</em>
+  {% endif %}
 </article>
 {%- endfor -%}
